@@ -1,6 +1,6 @@
 # Twitter-Scrapper
 **0** - Observações  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**0.1** - Para baixar os arquivos necessários, basta clicar em 'Code' nessa página, e depois em 'Download ZIP' e depois descomprimir a pasta no local de sua preferência.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**0.1** - Para baixar os arquivos necessários, basta clicar em 'Code' nessa página, e depois em 'Download ZIP' e depois descomprimir a pasta no local de sua preferência.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**0.2** - Essa pasta na qual está esse README.md será referenciada nesse arquivo como ".". Dessa forma, o arquivo README, por exemplo, é representado por "./README" e o arquivo TwitterScrapper.jar por "./TwitterScrapper.jar".  
 **1** - Escolher quais vão ser os tweets capturados.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.1** - Em ./searchParams temos o arquivo ./searchParams/searchText.txt nesse arquivo deve ser colocada a query desejada. No arquivo ./searchParams/README se encontram as instruções para como preencher esse arquivo.  
