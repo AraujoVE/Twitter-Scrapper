@@ -1,0 +1,2 @@
+exemplo lang:pt since_time:2018-12-31T23:59:58 until_time:2019-12-31T23:59:58
+Brazil/East
