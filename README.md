@@ -13,8 +13,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.6** - Arrastar esse arquivo para dentro da pasta ./ChromeDriver  
 **3** - Baixar o Java18  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.1** - Baixar o java SE 18 para o seu sistema operacional https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html  . Novamente, é necessário verificar corretamente quando existirem mais de uma opção, tal como no caso do Mac em que existe o arm (para chips M1 ou M2) e o x64 (para chips da Intel). Outros exemplos são o do Linux, em que para certas distros que se utilizam de Debian - tal como Ubuntu - é possível usar o instalador Debian, enquando que para outras, como o Arch, não é.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.2** - Caso você possua diversas versões do java jdk, é necessário escolher a versão 18 antes de rodar o programa. A forma como isso pode ser feito varia de sistema operacional para sistema operacional, e pode se tornar algo muito complexo. Uma pesquisa com os termos "How to change jave version on " seguido do nome do sistema operacional normalmente retorna resultados úteis.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.3** - Descomprimir quando necessário.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.4** - Executar os passos para instalar de acordo com cada sistema operacional.  
 **4** - Executar o programa  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.1** - Entrar no terminal do seu sistema operacional  
